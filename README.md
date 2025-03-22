@@ -33,6 +33,7 @@ We then designed wireframes for UI on figma. Design ink here: https://www.figma.
 - TypeScript
 - Ethers.js v6
 - Sepolia testnet + Infura RPC
+- Dauhaus/Moloch DAO v3
 
 
 
